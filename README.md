@@ -1,2 +1,2 @@
-# ly-multi-app
+# yea-multi-app
 thinkphp6 multi app support
